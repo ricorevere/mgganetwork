@@ -6,8 +6,8 @@
             <div class="flex justify-center mt-5 mb-5">
                 <div class="grid grid-cols-2 gap-12 text-white w-fit 550px:grid-cols-1">
                     <div class="bg-black p-6 rounded-lg relative group">
-                        <span class="absolute top-2 rounded-sm font-semibold left-2 p-2 text-sm px-3 bg-rust">Owner</span>
-                        <img class="mb-5 rounded-md group-hover:scale-125 transition-all" width="200" height="200" src="https://cdn-longterm.mee6.xyz/plugins/welcome/images/962143010177572884/1dc9fbb2db88f57b9b0bd3c76649cca1d07eda2fc2d9026d6974bfd120f6bab5.gif">
+                        <span class="absolute top-2 rounded-sm font-semibold left-2 p-2 text-sm px-3 bg-rust">Founder/Owner</span>
+                        <img class="mb-5 rounded-md group-hover:scale-125 transition-all" width="200" height="200" src="https://media.tenor.com/kupwOBwolcIAAAAC/hyper-gamer.gif">
                         <div class="info">
                             <h2 class="text-center text-xl mb-3">UnknownGamer</h2>
                             <div class="flex text-md items-center justify-center">
@@ -17,7 +17,7 @@
                         </div>
                     </div>
                     <div class="bg-black p-6 rounded-lg relative group">
-                        <span class="absolute top-2 rounded-sm font-semibold left-2 p-2 text-sm px-3 bg-rust">Owner</span>
+                        <span class="absolute top-2 rounded-sm font-semibold left-2 p-2 text-sm px-3 bg-rust">Co-Owner</span>
                         <img class="mb-5 rounded-md group-hover:scale-125 transition-all" width="200" height="200" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/386180/e47273b62284f3ab2e2b9b15c89607c8c1d4dd16.gif">
                         <div class="info">
                             <h2 class="text-center text-xl mb-3">GrimKngCobra</h2>
